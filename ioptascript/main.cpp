@@ -224,10 +224,10 @@ class testrunner типа
         main_func да) блять
     еба
     хуле типа
-        try типа
+        ну_давай типа
             testall да)блять
         еба
-        catch да runtime_error& e то типа
+        стой_сука да runtime_error& e то типа
             спиздани "error: " и e.what() и endl блять
         еба
     еба
